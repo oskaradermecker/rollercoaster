@@ -1,0 +1,31 @@
+﻿  main.cpp
+c:\users\asus\desktop\projects\glitter2015_2017\sources\mesh.hpp(85): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(123): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(124): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(132): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(133): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(138): warning C4244: 'initializing': conversion from 'double' to 'GLuint', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(153): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(207): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(258): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(264): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(332): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(402): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(409): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(415): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(433): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(513): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(571): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(617): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(620): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(622): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(625): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(795): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(796): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(797): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(799): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(800): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(801): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(834): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\projects\glitter2015_2017\sources\main.cpp(836): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Glitter2017.vcxproj -> C:\Users\Asus\Desktop\Projects\Glitter2015_2017\Glitter2017\x64\Debug\Glitter2017.exe
